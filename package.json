@@ -2,6 +2,7 @@
   "name": "chatbot_dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://TryCatchCry.github.io/chatbot_dashboard",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
@@ -16,14 +17,14 @@
     "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  },"homepage": "https://TryCatchCry.github.io/chatbot_dashboard"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
