@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatbot_dashboard/static/css/main.a8e12ba4.css",
+    "main.js": "/chatbot_dashboard/static/js/main.b3c93ee9.js",
+    "static/media/image.png": "/chatbot_dashboard/static/media/image.fb0013d6813468c5f48c.png",
+    "static/media/icons8-google.svg": "/chatbot_dashboard/static/media/icons8-google.b40778ce9db962e9de29649090e3d307.svg",
+    "index.html": "/chatbot_dashboard/index.html",
+    "main.a8e12ba4.css.map": "/chatbot_dashboard/static/css/main.a8e12ba4.css.map",
+    "main.b3c93ee9.js.map": "/chatbot_dashboard/static/js/main.b3c93ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e12ba4.css",
+    "static/js/main.b3c93ee9.js"
+  ]
+}
